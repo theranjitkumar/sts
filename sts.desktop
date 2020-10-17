@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Spring Tool Suite 4
+Comment=Spring Tool Suite 4
+Exec=/home/ranjit/RANJIT/sts-4.8.0/SpringToolSuite4
+Icon=/home/ranjit/RANJIT/sts-4.8.0/icon.xpm
+Terminal=false
+Type=Application
+Categories=Development;IDE;Java;
+StartupWMClass=Spring Tool Suite 4
